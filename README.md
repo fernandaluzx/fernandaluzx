@@ -17,7 +17,7 @@
   <strong>Languages and Technologies:</strong>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,react,nodejs,nestjs" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,java,react,nodejs,arduino" alt="My Skills"/>
   </a>
 </div>
 
